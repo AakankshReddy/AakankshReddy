@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:F7931E&height=200&section=header&text=Aakanksh%20Reddy&fontSize=50&fontColor=ffffff)
 ### Hi, I'm Aakanksh 👋
 
 B.Tech. (Hons.) student in **Electronics & Electrical Communication Engineering** at IIT Kharagpur.
