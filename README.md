@@ -5,5 +5,6 @@ B.Tech. (Hons.) student in **Electronics & Electrical Communication Engineering*
 - 📊 **ML & Data:** Python, SQL — clustering (K-Means, PCA) on large-scale network traffic, factor-based portfolio modeling on Indian equities, scouting dashboards in Power BI
 - 🎚️ **Signal Processing:** Adaptive filtering (LMS/NLMS) for active noise cancellation, DSP fundamentals, MATLAB-based analysis
 - ⚙️ **Controls:** State-space & LQR design, Q-learning-based control, MATLAB/Simulink modeling
+- 🛠️ **Tools & Languages:** Python · MATLAB/Simulink · Verilog · SQL · C · LTSpice · Power BI · Jupyter
 - 🎯 Open to internships in **digital design, ML/data, or signal processing & controls**
 - 📫 Reach me: [aakankshreddy17@gmail.com or https://www.linkedin.com/in/kadukuntla-aakanksh-reddy-a985a3387/]
