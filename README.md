@@ -1,13 +1,81 @@
 <p align="center">
   <img src="assets/git.png" alt="Banner" width="100%">
 </p>
-### Hi, I'm Aakanksh 👋
 
-B.Tech. (Hons.) student in **Electronics & Electrical Communication Engineering** at IIT Kharagpur.
-- 🔧 **Digital Design:** CPU architecture & Verilog HDL (built a 4-bit CPU from datapath to control logic — TD4 ISA, fetch-decode-execute pipeline)
-- 📊 **ML & Data:** Python, SQL — clustering (K-Means, PCA) on large-scale network traffic, factor-based portfolio modeling on Indian equities, scouting dashboards in Power BI
-- 🎚️ **Signal Processing:** Adaptive filtering (LMS/NLMS) for active noise cancellation, DSP fundamentals, MATLAB-based analysis
-- ⚙️ **Controls:** State-space & LQR design, Q-learning-based control, MATLAB/Simulink modeling
-- 🛠️ **Tools & Languages:** Python · MATLAB/Simulink · Verilog · SQL · C · LTSpice · Power BI · Jupyter
-- 🎯 Open to internships in **digital design, ML/data, or signal processing & controls**
-- 📫 Reach me: [aakankshreddy17@gmail.com or https://www.linkedin.com/in/kadukuntla-aakanksh-reddy-a985a3387/]
+<h1 align="center">Hi, I'm Aakanksh 👋</h1>
+
+<p align="center">
+B.Tech. (Hons.) • Electronics & Electrical Communication Engineering • IIT Kharagpur
+</p>
+
+---
+
+## About Me
+
+I'm an Electronics & Electrical Communication Engineering undergraduate at IIT Kharagpur with interests in digital hardware design, machine learning, signal processing, and control systems. I enjoy building systems from first principles and working across hardware and software.
+
+---
+
+## Technical Interests
+
+- 🔧 **Digital Design & Computer Architecture**
+  - Designed a **4-bit TD4 CPU** in Verilog from scratch
+  - Datapath, control unit, instruction decoding, ALU, registers, and program execution
+  - Functional verification using custom testbenches
+
+- 📊 **Machine Learning & Data Analytics**
+  - Network traffic clustering using **K-Means** and **PCA**
+  - Factor-based portfolio construction on Indian equity markets
+  - Interactive dashboards with **Power BI**
+  - Python, NumPy, Pandas, Scikit-learn, SQL
+
+- 🎚️ **Signal Processing**
+  - Adaptive Noise Cancellation using **LMS/NLMS**
+  - DSP fundamentals and MATLAB simulations
+
+- ⚙️ **Control Systems**
+  - State-space modeling
+  - LQR controller design
+  - Reinforcement-learning-based (Q-learning) control
+  - MATLAB/Simulink
+
+---
+
+## Tech Stack
+
+**Languages**
+
+`Python` `C` `Verilog` `SQL` `MATLAB`
+
+**Tools**
+
+`Git` `Power BI` `LTSpice` `MATLAB/Simulink` `Jupyter`
+
+---
+
+## Currently Learning
+
+- ASIC Design Flow
+- SystemVerilog
+- Computer Architecture
+- Deep Learning
+
+---
+
+## Looking For
+
+I'm currently seeking internships in:
+
+- Digital Design / RTL Design
+- ASIC Verification
+- Machine Learning & Data Science
+- Signal Processing & Control Systems
+
+---
+
+## Connect
+
+📧 **Email:** <aakankshreddy17@gmail.com>
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/kadukuntla-aakanksh-reddy-a985a3387/
