@@ -1,4 +1,6 @@
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ApBF1nLmA8-9O6qobW0TllwKh8f5D0QFkBFK6i4OJQOkQ68vamvrIC-W&s=10)
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
 ### Hi, I'm Aakanksh 👋
 
 B.Tech. (Hons.) student in **Electronics & Electrical Communication Engineering** at IIT Kharagpur.
