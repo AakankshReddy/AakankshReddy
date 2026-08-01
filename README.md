@@ -1,4 +1,4 @@
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyeNI48lq9xoSfzWGhHgTlPZ1L3hWbN55SreLy6OR4bFW0W6SQQP2cIND&s=10)
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ApBF1nLmA8-9O6qobW0TllwKh8f5D0QFkBFK6i4OJQOkQ68vamvrIC-W&s=10)
 ### Hi, I'm Aakanksh 👋
 
 B.Tech. (Hons.) student in **Electronics & Electrical Communication Engineering** at IIT Kharagpur.
